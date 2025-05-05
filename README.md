@@ -115,3 +115,12 @@ You should see the results in the console:
 
 That’s it about creating and running the R script file!
 
+
+![image](https://github.com/user-attachments/assets/2e4a7227-a6fd-4cec-b81c-afcaabfd3d8a)
+
+
+![image](https://github.com/user-attachments/assets/7342e2bd-b3ca-435a-bbc3-9fac4ceeceb4)
+
+
+#### Author
+smita shinde
